@@ -1,0 +1,9 @@
+{
+  "env": "development",
+  "mongo": {
+    "uri": "mongodb://localhost:27017/summaries2"
+  },
+  "jwt": {
+    "secret": "summary-secret"
+  }
+}
